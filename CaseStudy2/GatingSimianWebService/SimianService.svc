@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="GatingWebService.SimianService" CodeBehind="SimianService.cs" %>
